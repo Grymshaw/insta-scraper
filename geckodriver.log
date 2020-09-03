@@ -1,0 +1,200 @@
+1597193217212	geckodriver	INFO	Listening on 127.0.0.1:52831
+1597193217219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC3GUiu"
+Gtk-Message: 19:46:57.247: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:46:58.941: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:46:59.078: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:47:00.662: Failed to load module "appmenu-gtk-module"
+1597193220964	Marionette	INFO	Listening on port 37997
+1597193221031	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 19:52:20.985: Failed to load module "appmenu-gtk-module"
+1597193548892	Marionette	INFO	Stopped listening on port 37997
+1597193647666	geckodriver	INFO	Listening on 127.0.0.1:57615
+1597193647672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOxVXhQ"
+Gtk-Message: 19:54:07.700: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:54:09.408: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:54:09.569: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:54:11.133: Failed to load module "appmenu-gtk-module"
+1597193651397	Marionette	INFO	Listening on port 38789
+1597193651482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597193849479	geckodriver	INFO	Listening on 127.0.0.1:53987
+1597193849485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYpDrIB"
+Gtk-Message: 19:57:29.511: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:57:31.196: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:57:31.324: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:57:32.981: Failed to load module "appmenu-gtk-module"
+1597193853153	Marionette	INFO	Listening on port 33311
+1597193853201	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 19:57:44.166: Failed to load module "appmenu-gtk-module"
+1597193869765	Marionette	INFO	Stopped listening on port 33311
+Gtk-Message: 19:57:59.381: Failed to load module "appmenu-gtk-module"
+1597193881835	Marionette	INFO	Stopped listening on port 38789
+1597194017253	geckodriver	INFO	Listening on 127.0.0.1:51691
+1597194017259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZY4XSy"
+Gtk-Message: 20:00:17.283: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:00:19.024: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:00:19.166: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:00:20.674: Failed to load module "appmenu-gtk-module"
+1597194020961	Marionette	INFO	Listening on port 40163
+1597194020983	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1597194614799	Marionette	INFO	Stopped listening on port 40163
+1597195132002	geckodriver	INFO	Listening on 127.0.0.1:58769
+1597195132014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWCuX35"
+Gtk-Message: 20:18:52.045: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:18:53.735: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:18:53.893: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:18:55.472: Failed to load module "appmenu-gtk-module"
+1597195135701	Marionette	INFO	Listening on port 41923
+1597195135747	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 20:19:38.319: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1597195187395	Marionette	INFO	Stopped listening on port 41923
+1597195963754	geckodriver	INFO	Listening on 127.0.0.1:37583
+1597195963760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePmCHAu"
+Gtk-Message: 20:32:43.785: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:32:45.499: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:32:45.634: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:32:47.204: Failed to load module "appmenu-gtk-module"
+1597195967431	Marionette	INFO	Listening on port 41905
+1597195967473	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 20:33:41.453: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1597196022312	Marionette	INFO	Stopped listening on port 41905
+1597287261468	geckodriver	INFO	Listening on 127.0.0.1:41289
+1597287262483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBW5cLB"
+Gtk-Message: 21:54:22.506: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:24.222: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:24.352: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:26.044: Failed to load module "appmenu-gtk-module"
+1597287266164	Marionette	INFO	Listening on port 32845
+1597287266216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597287409750	geckodriver	INFO	Listening on 127.0.0.1:52353
+1597287409756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOD7uY1"
+Gtk-Message: 21:56:49.779: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:56:51.481: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:56:51.617: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:56:53.228: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:56:53.320: Failed to load module "appmenu-gtk-module"
+1597287413746	Marionette	INFO	Listening on port 45031
+1597287413775	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 21:56:55.056: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:56:56.252: Failed to load module "appmenu-gtk-module"
+1597287417959	Marionette	INFO	Stopped listening on port 32845
+Gtk-Message: 21:57:15.127: Failed to load module "appmenu-gtk-module"
+JavaScript error: , line 0: uncaught exception: 2147500036
+1597287437505	Marionette	INFO	Stopped listening on port 45031
+1597287618769	geckodriver	INFO	Listening on 127.0.0.1:41585
+1597287618776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile94Dn8u"
+Gtk-Message: 22:00:18.806: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:00:20.940: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:00:21.080: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:00:22.634: Failed to load module "appmenu-gtk-module"
+1597287622961	Marionette	INFO	Listening on port 35089
+1597287623004	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 22:18:54.553: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1597288736215	Marionette	INFO	Stopped listening on port 35089
+1597372446345	geckodriver	INFO	Listening on 127.0.0.1:38905
+1597372446351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAnjuJK"
+Gtk-Message: 21:34:06.379: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:34:08.096: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:34:08.231: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:34:09.808: Failed to load module "appmenu-gtk-module"
+1597372450026	Marionette	INFO	Listening on port 33401
+1597372450079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597372548033	geckodriver	INFO	Listening on 127.0.0.1:51213
+1597372548039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF8gdRH"
+Gtk-Message: 21:35:48.065: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:35:49.772: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:35:49.906: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:35:51.491: Failed to load module "appmenu-gtk-module"
+1597372551723	Marionette	INFO	Listening on port 36549
+1597372551759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597372661297	geckodriver	INFO	Listening on 127.0.0.1:50797
+1597372661303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefyUkQx"
+Gtk-Message: 21:37:41.327: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:37:43.033: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:37:43.173: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:37:44.806: Failed to load module "appmenu-gtk-module"
+1597372664984	Marionette	INFO	Listening on port 41201
+1597372665022	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 21:37:53.248: Failed to load module "appmenu-gtk-module"
+1597372676495	Marionette	INFO	Stopped listening on port 36549
+1597372747354	geckodriver	INFO	Listening on 127.0.0.1:59967
+1597372747361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Oa4Sc"
+Gtk-Message: 21:39:07.388: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:39:09.090: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:39:09.221: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:39:10.800: Failed to load module "appmenu-gtk-module"
+1597372751076	Marionette	INFO	Listening on port 42855
+1597372751174	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 21:39:14.655: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+Extension error: Data is not ready. resource://gre/modules/JSONFile.jsm:173 :: get data@resource://gre/modules/JSONFile.jsm:173:13
+_get@resource://gre/modules/ExtensionPermissions.jsm:74:17
+observe@resource://gre/modules/AsyncShutdown.jsm:554:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1597372756232	Marionette	INFO	Stopped listening on port 41201
+1597372757453	Marionette	INFO	Stopped listening on port 42855
+Gtk-Message: 21:39:28.420: Failed to load module "appmenu-gtk-module"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1597372769709	Marionette	INFO	Stopped listening on port 33401
+1597373641293	geckodriver	INFO	Listening on 127.0.0.1:40551
+1597373641299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo9p3Kl"
+Gtk-Message: 21:54:01.325: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:03.036: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:03.178: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:04.729: Failed to load module "appmenu-gtk-module"
+1597373645043	Marionette	INFO	Listening on port 35969
+1597373645112	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1597373667666	geckodriver	INFO	Listening on 127.0.0.1:36337
+1597373667672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9YFBrL"
+Gtk-Message: 21:54:27.696: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:29.370: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:29.509: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:54:31.189: Failed to load module "appmenu-gtk-module"
+1597373671368	Marionette	INFO	Listening on port 41105
+1597373671398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597373691278	Marionette	INFO	Stopped listening on port 41105
+1597374488483	geckodriver	INFO	Listening on 127.0.0.1:45097
+1597374488489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYsRXvF"
+Gtk-Message: 22:08:08.517: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:08:10.253: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:08:10.404: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:08:12.106: Failed to load module "appmenu-gtk-module"
+1597374492225	Marionette	INFO	Listening on port 39077
+1597374492303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597374586989	Marionette	INFO	Stopped listening on port 39077
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597374935130	geckodriver	INFO	Listening on 127.0.0.1:47677
+1597374935136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileutpMaI"
+Gtk-Message: 22:15:35.164: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:15:36.865: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:15:37.009: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:15:38.500: Failed to load module "appmenu-gtk-module"
+1597374938769	Marionette	INFO	Listening on port 44745
+1597374938848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597375039851	Marionette	INFO	Stopped listening on port 44745
